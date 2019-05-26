@@ -1,0 +1,10 @@
+Package: annie
+Title: annie is a small package to implement artificial neural networks
+Version: 1.0.0.0001
+Authors@R: person("Rohit", "Suresh", email = "rohits@iastate.edu", role = c("aut", "cre"))
+Description: annie takes in labeled data and trains a neural network. The size of the neural network can be chosen by the user and the user may also choose to implement regularization. annie also performs predictions and diagnostics of the neural network.
+Depends: R (>= 3.5.0)
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
